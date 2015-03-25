@@ -1,2 +1,2 @@
 # php-pim
-phpPIM project.
+php-pim project - Personal Information Manager written in PHP.
