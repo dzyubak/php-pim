@@ -2,13 +2,13 @@
 php-pim project is a Personal Information Manager written in PHP. It is developed with NetBeans IDE 8.0 and XAMPP 1.8.2.
 
 This web application has the following functionality:
-* items management (they can be notes, tasks or whatever you like)
+* items management (these can be notes, tasks or whatever you like)
 * items categorization
 * address book (contact management)
 * export of all links from all items to XML file
 * items can be reviewed, sorted by date and priority and filtered by category
 * items can be searched by keyword
-* this Personal Information Manager is actually functions like a lot of Personal Information Managers
+* this Personal Information Manager actually functions like a lot of Personal Information Managers
 * every user account has its own Personal Information Manager
 * there is an administration control panel, administrator as special user has access to it
 * administration control panel allows to view, edit, activate and deactivate registered users
