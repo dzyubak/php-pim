@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bookmarks>
+  <bookmark>
+    <title>Example Domain</title>
+    <url>http://example.com/</url>
+  </bookmark>
+  <bookmark>
+    <title>Google</title>
+    <url>http://google.com/</url>
+  </bookmark>
+  <bookmark>
+    <title>PHP: Hypertext Preprocessor</title>
+    <url>http://php.net/</url>
+  </bookmark>
+  <bookmark>
+    <title>Microsoft &#x2013; Official Home Page</title>
+    <url>http://www.microsoft.com/en-us/default.aspx</url>
+  </bookmark>
+  <bookmark>
+    <title>Zend Technologies Inc WebEx Training Center</title>
+    <url>https://zend.webex.com/zend/</url>
+  </bookmark>
+</bookmarks>

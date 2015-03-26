@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# rewrite URL but don't rewrite certain folder
+RewriteRule ^/?export/.+$ - [L]
+RewriteRule ^/?views/.+$ - [L]
+# action
+RewriteRule ^([a-z\-\_]+)$ /index.php?action=$1 [L]
+RewriteRule ^([a-z\-\_]+)/$ /index.php?action=$1 [L]
+# action and ID or key
+RewriteRule ^([a-z\-\_]+)/([a-z\0-9\-\_]+)$ /index.php?action=$1&key=$2 [L]
+RewriteRule ^([a-z\-\_]+)/([a-z\0-9\-\_]+)/$ /index.php?action=$1&key=$2 [L]
+# errors
+ErrorDocument 404 /index.php?action=404
